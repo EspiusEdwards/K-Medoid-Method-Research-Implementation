@@ -1,0 +1,1 @@
+# K-medoid-Method-As-An-Integer-Programming-Problem-And-Application-To-Facility-Location-Problems
